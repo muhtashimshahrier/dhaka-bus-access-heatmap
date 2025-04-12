@@ -91,6 +91,6 @@ Created using clustered bus stop centroids, weighted by `service_count`.
 
 
 ## Notes
-QGIS Version: 3.40.5
-Basemap: OpenStreetMap Standard
-Heatmap generated using cluster data from data/clustered_stops.csv
+- QGIS Version: 3.40.5
+- Basemap: OpenStreetMap Standard
+- Heatmap generated using cluster data from data/clustered_stops.csv
