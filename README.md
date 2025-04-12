@@ -19,7 +19,7 @@ To identify clusters of bus stops served by multiple unique routes and map the s
 
 ### 1. Data Collection and Preparation
 
-- Scraped route data from [busroutebd.com](https://busroutebd.com).
+- Scraped route data from https://dhakabusroute.com/.
 - Extracted all stops for each bus route and saved in long format.
 - Cleaned and deduplicated stop names.
 
