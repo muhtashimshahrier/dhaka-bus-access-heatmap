@@ -56,10 +56,5 @@ All scripts are located in the `scripts/` folder and can be run independently.
 ## Outputs
 Final visualizations and spatial analysis details are available in the outputs/ folder
 
-## Requirements
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 
